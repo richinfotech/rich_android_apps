@@ -7,7 +7,7 @@
 ![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Screenshots
-![বৃক্ষ ( Brikkho )](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5icmlra2hvX2ljb25fMTU3MDEyMTU0Ml8wODA/icon.png?w=170&fakeurl=1)
+![বৃক্ষ ( Brikkho )](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5icmlra2hvX3NjcmVlbl8wXzE1NzAxMjE1NDNfMDAz/screen-0.jpg?h=355&fakeurl=1&type=.jpg)
 ![বৃক্ষ ( Brikkho )](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5icmlra2hvX3NjcmVlbl8xXzE1NzAxMjE1NDNfMDk5/screen-1.jpg?h=355&fakeurl=1&type=.jpg)
 ![বৃক্ষ ( Brikkho )](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5icmlra2hvX3NjcmVlbl8xXzE1NzAxMjE1NDNfMDk5/screen-1.jpg?h=355&fakeurl=1&type=.jpg)
 ![বৃক্ষ ( Brikkho )](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5icmlra2hvX3NjcmVlbl8xXzE1NzAxMjE1NDNfMDk5/screen-1.jpg?h=355&fakeurl=1&type=.jpg)
