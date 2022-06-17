@@ -4,7 +4,7 @@ BirdsLover is an Android App made for the Birds-Lovers. It contains a lot of bir
 ![Jibanananda Recitation (Abritti)](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5qaWJvbmFuZG9rb2JpdGFzb21vZ3JvX2ljb25fMTU3MDEwNDExNF8wNDc/icon.png?w=170&fakeurl=1)
 
 # Download
-![Download links](https://github.com/p32929/my_android_apps/releases)
+![Download links](https://github.com/richinfotech/rich_android_apps/releases/tag/all)
 
 # Screenshots
 ![Jibanananda Recitation (Abritti)](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5qaWJvbmFuZG9rb2JpdGFzb21vZ3JvX3NjcmVlbl8wXzE1NzAxMDQxMTRfMDgy/screen-0.jpg?h=355&fakeurl=1&type=.jpg)
