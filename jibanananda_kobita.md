@@ -1,26 +1,24 @@
-# CGPA Calculator
-A simple yet effective CGPA Calculator for University students. it is a faster & easier app to calculate CGPA in your android phone...
+# Birds Lover
+BirdsLover is an Android App made for the Birds-Lovers. It contains a lot of birds with their description, scientific name, tweeting sound, image, and more.
 
-# Features of this app:
-* Simple UI
-* Faster CGPA Calculation
-* Editable wrong entries
-* Smaller size
-* Save results
-* Access saved results anytime offline
-* More features are on the way...
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8zXzE1NzIwMDQyMThfMDk2/screen-3.jpg?h=355&fakeurl=1&type=.jpg)
 
 # Download
-Download link(s)
-
-# More details
-
+![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Screenshots
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzBfMTU3MTg0Nzk1MV8wNDg/screen-0.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzFfMTU3MTg0Nzk1Ml8wNTA/screen-1.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzJfMTU3MTg0Nzk1M18wMzM/screen-2.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzNfMTU3MTg0Nzk1M18wNTI/screen-3.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzRfMTU3MTg0Nzk1NF8wNDc/screen-4.jpg?h=355&fakeurl=1&type=.webp
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8wXzE1NzIwMDQyMTZfMDA0/screen-0.jpg?h=355&fakeurl=1&type=.jpg)
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8xXzE1NzIwMDQyMTdfMDkz/screen-1.jpg?h=355&fakeurl=1&type=.jpg)
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8yXzE1NzIwMDQyMThfMDA0/screen-2.jpg?h=355&fakeurl=1&type=.jpg)
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8zXzE1NzIwMDQyMThfMDk2/screen-3.jpg?h=355&fakeurl=1&type=.jpg)
+![Birds Lover](https://image.winudf.com/v2/image1/b3JnLnJpY2hpdC5iaXJkc2xvdmVyX3NjcmVlbl8zXzE1NzIwMDQyMThfMDk2/screen-3.jpg?h=355&fakeurl=1&type=.jpg)
+
+# Features of this app:
+* Identify birds and their spices in just a second
+* Search by Bird name, or scientific name, etc
+* Listen to birds tweeting
+* Save your favorite birds in offline database
+* Everything is in just 2 MB BirdsLover app
 
 # Keywords
+Coming soon
